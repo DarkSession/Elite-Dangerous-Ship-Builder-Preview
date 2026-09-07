@@ -1,0 +1,1 @@
+var t=`(max-height: 30rem)`;function M(){return 30*(Number.parseFloat(getComputedStyle(document.documentElement).fontSize)||16)}export{t as n,M as t};
